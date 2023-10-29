@@ -1,4 +1,4 @@
-# Security Policy
+# Audit Policy
 
 ## Supported Versions
 
